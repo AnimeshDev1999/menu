@@ -1,0 +1,7 @@
+.card {
+  padding: 1rem;
+  background-color: rgb(212, 159, 91);
+  box-shadow: 0px 0px 20px 1px burlywood inset;
+  color: rgb(50, 39, 24);
+  margin-bottom: 2rem;
+}

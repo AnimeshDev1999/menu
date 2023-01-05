@@ -1,0 +1,7 @@
+.items {
+  width: 100%;
+}
+
+tr td:last-child {
+  text-align: right;
+}
